@@ -11,15 +11,15 @@
   </welcome-file-list>
   <servlet>
     <servlet-name>Inscription</servlet-name>
-    <servlet-class>com.pro.servlets.Inscription</servlet-class>
+    <servlet-class>com.proEclipse.servlets.Inscription</servlet-class>
   </servlet>
   <servlet>
     <servlet-name>Connexion</servlet-name>
-    <servlet-class>com.pro.servlets.Connexion</servlet-class>
+    <servlet-class>com.proEclipse.servlets.Connexion</servlet-class>
   </servlet>
   <servlet>
     <servlet-name>Deconnexion</servlet-name>
-    <servlet-class>com.pro.servlets.Deconnexion</servlet-class>
+    <servlet-class>com.proEclipse.servlets.Deconnexion</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>Inscription</servlet-name>
@@ -52,7 +52,7 @@
   
   <!-- <filter>
   	<filter-name>RestrictionFilter</filter-name>
-  	<filter-class>com.pro.filters.RestrictionFilter</filter-class>
+  	<filter-class>com.proEclipse.filters.RestrictionFilter</filter-class>
   </filter>
   <filter-mapping>
   	<filter-name>RestrictionFilter</filter-name>
