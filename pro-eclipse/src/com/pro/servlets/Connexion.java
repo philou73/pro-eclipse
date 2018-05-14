@@ -1,4 +1,4 @@
-package com.proEclipse.servlets;
+package com.pro.servlets;
 
 import java.io.IOException;
 
@@ -15,8 +15,8 @@ import org.joda.time.format.DateTimeFormatter;
 import org.joda.time.format.PeriodFormatter;
 import org.joda.time.format.PeriodFormatterBuilder;
 
-import com.proEclipse.beans.Utilisateur;
-import com.proEclipse.forms.ConnexionForm;
+import com.pro.forms.ConnexionForm;
+import com.pro.beans.Utilisateur;
 
 public class Connexion extends HttpServlet {
     /**

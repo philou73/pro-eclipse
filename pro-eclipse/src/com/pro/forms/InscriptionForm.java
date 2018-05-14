@@ -1,11 +1,11 @@
-package com.proEclipse.forms;
+package com.pro.forms;
 
 import java.util.HashMap;
 import java.util.Map;
 
 import javax.servlet.http.HttpServletRequest;
 
-import com.proEclipse.beans.Utilisateur;
+import com.pro.beans.Utilisateur;
 
 public final class InscriptionForm {
     private static final String CHAMP_EMAIL  = "email";

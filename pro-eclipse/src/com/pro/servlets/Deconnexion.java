@@ -1,4 +1,4 @@
-package com.proEclipse.servlets;
+package com.pro.servlets;
 
 import java.io.IOException;
 

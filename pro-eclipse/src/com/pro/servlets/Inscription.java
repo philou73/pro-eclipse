@@ -1,4 +1,4 @@
-package com.proEclipse.servlets;
+package com.pro.servlets;
 
 import java.io.IOException;
 
@@ -7,8 +7,8 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import com.proEclipse.beans.Utilisateur;
-import com.proEclipse.forms.InscriptionForm;
+import com.pro.beans.Utilisateur;
+import com.pro.forms.InscriptionForm;
 
 public class Inscription extends HttpServlet {
 	private static final long serialVersionUID = 1L;

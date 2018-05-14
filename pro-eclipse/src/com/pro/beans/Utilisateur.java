@@ -1,4 +1,4 @@
-package com.proEclipse.beans;
+package com.pro.beans; 
 
 public class Utilisateur {
 
